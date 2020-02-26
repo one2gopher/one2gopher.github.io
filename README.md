@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-京ICP备17007687号 [documentation](http://www.beian.miit.gov.cn/)
+ [京ICP备17007687号](http://www.beian.miit.gov.cn/)
